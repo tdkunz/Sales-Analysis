@@ -1,4 +1,4 @@
-Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?utm_source=chatgpt.com
+Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 Target:
   - SQL: write queries to analyze revenue over time, by region, by product.
